@@ -109,11 +109,11 @@ assets/
 
    ```bash
    # HTTPS
-   git clone https://github.com/whoosh09/MobileProject_204311.git
+   git clone https://github.com/DaliceZ/Quackle.git
 
    # SSH
-   git clone git@github.com:whoosh09/MobileProject_204311.git
-
+   git clone git@github.com:DaliceZ/Quackle.git
+   
    cd MobileProject_204311
    ```
 
